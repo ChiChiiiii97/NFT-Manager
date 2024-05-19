@@ -1,7 +1,8 @@
 # NFT Management System
 
 Author: Cherrie Anne Sandrino, Student at NTC
-Introduction
+
+## Introduction
 This project implements a simple JavaScript-based system for managing Non-Fungible Tokens (NFTs). The code includes functions for minting new NFTs, listing all NFTs, and retrieving the total supply of NFTs. This project serves as a basic introduction to NFT management and can be expanded for more complex applications.
  
 ## Code Explanation
